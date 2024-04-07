@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/BreastCancer/static/css/main.511104be.css",
-    "main.js": "/BreastCancer/static/js/main.16448d36.js",
+    "main.js": "/BreastCancer/static/js/main.7f2869f0.js",
     "static/js/787.d4aba7ab.chunk.js": "/BreastCancer/static/js/787.d4aba7ab.chunk.js",
     "static/media/Poorti-17.jpg": "/BreastCancer/static/media/Poorti-17.621b5496eac2f4a95ef3.jpg",
     "static/media/National-Cancer-Institute.webp": "/BreastCancer/static/media/National-Cancer-Institute.707b1d4eb0cb0750f039.webp",
@@ -21,11 +21,11 @@
     "static/media/logo-nav.webp": "/BreastCancer/static/media/logo-nav.be35a67ce6c471abddfd.webp",
     "index.html": "/BreastCancer/index.html",
     "main.511104be.css.map": "/BreastCancer/static/css/main.511104be.css.map",
-    "main.16448d36.js.map": "/BreastCancer/static/js/main.16448d36.js.map",
+    "main.7f2869f0.js.map": "/BreastCancer/static/js/main.7f2869f0.js.map",
     "787.d4aba7ab.chunk.js.map": "/BreastCancer/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.511104be.css",
-    "static/js/main.16448d36.js"
+    "static/js/main.7f2869f0.js"
   ]
 }

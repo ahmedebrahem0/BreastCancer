@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/breastcancer/static/css/main.b773f62b.css",
-    "main.js": "/breastcancer/static/js/main.8e48e2f9.js",
+    "main.css": "/breastcancer/static/css/main.a373b0ce.css",
+    "main.js": "/breastcancer/static/js/main.6aa9808c.js",
     "static/js/787.d4aba7ab.chunk.js": "/breastcancer/static/js/787.d4aba7ab.chunk.js",
     "static/media/Poorti-17_cleanup.png": "/breastcancer/static/media/Poorti-17_cleanup.2db5e9e350e7bc1cb484.png",
     "static/media/National-Cancer-Institute.webp": "/breastcancer/static/media/National-Cancer-Institute.707b1d4eb0cb0750f039.webp",
@@ -20,12 +20,12 @@
     "static/media/chatboot.webp": "/breastcancer/static/media/chatboot.41eaabb1c67849a8700e.webp",
     "static/media/logo-nav.webp": "/breastcancer/static/media/logo-nav.be35a67ce6c471abddfd.webp",
     "index.html": "/breastcancer/index.html",
-    "main.b773f62b.css.map": "/breastcancer/static/css/main.b773f62b.css.map",
-    "main.8e48e2f9.js.map": "/breastcancer/static/js/main.8e48e2f9.js.map",
+    "main.a373b0ce.css.map": "/breastcancer/static/css/main.a373b0ce.css.map",
+    "main.6aa9808c.js.map": "/breastcancer/static/js/main.6aa9808c.js.map",
     "787.d4aba7ab.chunk.js.map": "/breastcancer/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b773f62b.css",
-    "static/js/main.8e48e2f9.js"
+    "static/css/main.a373b0ce.css",
+    "static/js/main.6aa9808c.js"
   ]
 }
